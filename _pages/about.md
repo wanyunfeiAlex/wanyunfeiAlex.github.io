@@ -19,18 +19,19 @@ Experience
 
 Publication
 ======
-- **Mesh-Learner: Texturing Mesh with Spherical Harmonics**
+- **[IROS 2025] Mesh-Learner: Texturing Mesh with Spherical Harmonics**
   <br>
   **Yunfei Wan**, Jianheng Liu, Chunran Zheng, Jiarong Lin and Fu Zhang
-  IROS, 2025, <a href="https://github.com/hku-mars/Mesh-Learner">Mesh-Learner</a>
   <br>
-- **GS-SDF: LiDAR-Augmented Gaussian Splatting and Neural SDF for Geometrically Consistent Rendering and Reconstruction**
+  <a href="https://github.com/hku-mars/Mesh-Learner">Mesh-Learner</a>
+  
+- **[IROS 2025] GS-SDF: LiDAR-Augmented Gaussian Splatting and Neural SDF for Geometrically Consistent Rendering and Reconstruction**
   <br>
   Jianheng Liu, **Yunfei Wan**, Bowen Wang, Chunran Zheng, Jiarong Lin, and Fu Zhang
   <br>
-  IROS, 2025, <a href="https://jianhengliu.github.io/Projects/GS-SDF/">GS-SDF</a>
-- **Neural Surface Reconstruction and Rendering for LiDAR-Visual Systems**
+  <a href="https://jianhengliu.github.io/Projects/GS-SDF/">GS-SDF</a>
+- **[ICRA 2025] Neural Surface Reconstruction and Rendering for LiDAR-Visual Systems**
   <br>
   Jianheng Liu, Chunran Zheng, **Yunfei Wan**, Bowen Wang, Yixi Cai, Fu Zhang
   <br>
-  ICRA, 2025, <a href="https://jianhengliu.github.io/Projects/M2Mapping/">M2Mapping</a>
+  <a href="https://jianhengliu.github.io/Projects/M2Mapping/">M2Mapping</a>
