@@ -15,7 +15,7 @@ Experience
 - PhD Student in Mechanical Engineering [@MaRS-Lab](https://mars.hku.hk/), The University of Hong Kong, 2024/01-
 - 3D Reconstruction Algorithm Engineer, Huawei Technologies Co., Ltd. 2022/01-2023-12
 - XR Soc Driver Engineer, Huawei Technologies Co., Ltd. 2018/09-2022/01
-- B.Eng. in Electronic, Wuhan University of Technology, 2014/09-2018/06
+- B.Eng. in Information Engineering, Wuhan University of Technology, 2014/09-2018/06
 
 A data-driven personal website
 ======
