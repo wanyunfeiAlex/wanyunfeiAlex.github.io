@@ -9,9 +9,13 @@ redirect_from:
 
 I am a second year PhD student at MaRS Lab, HKU, under the supervision of Prof. Fu Zhang.
 
-Test Test,This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Experience
+=========
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+- PhD Student in Mechanical Engineering [@MaRS-Lab](https://mars.hku.hk/), The University of Hong Kong, 2024/01-
+- 3D Reconstruction Algorithm Engineer, Huawei Technologies Co., Ltd. 2022/01-2023-12
+- XR Soc Driver Engineer, Huawei Technologies Co., Ltd. 2018/09-2022/01
+- B.Eng. in Electronic, Wuhan University of Technology, 2014/09-2018/06
 
 A data-driven personal website
 ======
