@@ -14,8 +14,8 @@ Experience
 
 - 2024/01 - Present: PhD Student at [MaRS-Lab](https://mars.hku.hk/), The University of Hong Kong.
 - 2022/01 - 2023-12: 3D Reconstruction Algorithm Engineer, Huawei Technologies Co., Ltd.
--   VPS (AR Navigation)
--   3D Reconstruction (NeRF/3DGS)
+  - VPS (AR Navigation)
+  - 3D Reconstruction (NeRF/3DGS)
 - 2018/09 - 2022/01: XR Soc Driver Engineer, Huawei Technologies Co., Ltd.
 -   
 - 2014/09 - 2018/06: B.Eng. in Information Engineering, Wuhan University of Technology.
