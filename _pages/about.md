@@ -17,7 +17,9 @@ Experience
   - VPS (AR Navigation)
   - 3D Reconstruction (NeRF/3DGS)
 - 2018/09 - 2022/01: XR Soc Driver Engineer, Huawei Technologies Co., Ltd.
--   
+  - XR + Unity rendering engine design
+  - XR headset driver development
+  - XR soc driver development
 - 2014/09 - 2018/06: B.Eng. in Information Engineering, Wuhan University of Technology.
 
 Publication
